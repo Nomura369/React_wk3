@@ -1,7 +1,7 @@
 /*字體引入區(思源宋體)*/
 @font-face {
   font-family: 'Source Han Serif TC';
-  src: url('fonts/SourceHanSerifTC-Regular.otf');
+  src: url('/fonts/SourceHanSerifTC-Regular.otf');
 }
 
 html {
@@ -47,7 +47,7 @@ body {
 }
 
 .header-home-icon:hover {
-  content: url("images/home_icon_hover.png");
+  content: url("/images/home_icon_hover.png");
 }
 
 .main {
